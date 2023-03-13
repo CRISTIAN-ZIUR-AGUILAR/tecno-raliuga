@@ -1,0 +1,8 @@
+{
+  "name": "tecno-raliuga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bf2a88db"
+}
