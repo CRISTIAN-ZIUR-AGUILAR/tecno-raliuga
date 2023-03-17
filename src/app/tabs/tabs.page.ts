@@ -6,6 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['tabs.page.scss']
 })
 export class TabsPage {
+  INICIO="INICIO"
+  OPCION1="OPCION_1"
+  OPCION3="OPCION_3"
+  opcion = this.INICIO
 
   constructor() {}
 
